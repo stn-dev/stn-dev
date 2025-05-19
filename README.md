@@ -11,9 +11,9 @@ Je m'intéresse aussi à l’expérimentation de nouveaux concepts via des proje
 
 > ✨ Mon espace personnel pour découvrir mon travail et mes compétences.
 
-🔗 [mario-fron-.vercel.app](https://mario-fron-.vercel.app)
+🔗 [mario-front.vercel.app](https://mario-front.vercel.app)
 
-![Modern Portfolio](https://mario-fron-.vercel.app/image/moder-portfolio-image.png)
+![Modern Portfolio](https://mario-front.vercel.app/image/moder-portfolio-image.png)
 
 ---
 
